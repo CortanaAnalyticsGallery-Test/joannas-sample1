@@ -51,3 +51,4 @@ r2 = 1 - d1.dot(d1) / d2.dot(d2)
 
 print ("R-squared: {}.".format(r2))
 print ("Joannas test")
+print("Amits test")
